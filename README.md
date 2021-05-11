@@ -1,7 +1,7 @@
 # Potential-Path-Field
 
 # License
-This code uses these packages und GPL-2 and/or GPL-3
+This code uses the fopllowing packages under GPL-2 and/or GPL-3
 * sp: Classes and Methods for Spatial Data (GPL-2 | GPL-3 [expanded from: GPL (≥ 2)])
   * https://CRAN.R-project.org/package=sp
 * raster: Geographic Data Analysis and Modeling (GPL (≥ 3))
